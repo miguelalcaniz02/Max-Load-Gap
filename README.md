@@ -5,7 +5,6 @@
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
   
 ## Introduction
 
@@ -30,11 +29,11 @@ pip install numpy matplotlib scipy
 
 1. Clone the repository:
    ```python
-   git clone https://github.com/your-username/galton-box-simulation.git
+   git clone https://github.com/miguelalcaniz02/Max-Load-Gap.git
 
 2. Navigate to the project directory:
    ```python
-   cd galton-box-simulation
+   cd Max-Load-Gap
 
 3. Install python and the necessary dependencies (as shown in the Requirements). E.g.:
    ```python
